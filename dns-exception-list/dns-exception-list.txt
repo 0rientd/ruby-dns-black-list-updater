@@ -9,4 +9,5 @@
 
 # Custom host records are listed here.
 0.0.0.0 static.whatsapp.net
+0.0.0.0 whatsapp.com
 # End of custom host records.
