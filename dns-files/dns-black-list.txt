@@ -8,5 +8,5 @@
 # ===============================================================
 
 # Custom host records are listed here.
-bsky.com
+0.0.0.0 bsky.com
 # End of custom host records.
