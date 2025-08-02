@@ -1,0 +1,12 @@
+# Title: 0rientd list with some hosts extensions
+#
+# This hosts file is a custom collection of hosts based from the original project.
+# Original project: https://github.com/StevenBlack/hosts
+#
+# Date: 01 August 2025 22:44 
+#
+# ===============================================================
+
+# Custom host records are listed here.
+bsky.com
+# End of custom host records.
