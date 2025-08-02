@@ -9,4 +9,6 @@
 
 # Custom host records are listed here.
 0.0.0.0 bsky.com
+0.0.0.0 bsky.app
+0.0.0.0 youtube.com
 # End of custom host records.
