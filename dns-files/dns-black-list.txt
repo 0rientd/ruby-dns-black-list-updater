@@ -8,12 +8,17 @@
 # ===============================================================
 
 # Custom host records are listed here.
+# [BlueSky]
 0.0.0.0 bsky.com
 0.0.0.0 bsky.app
-0.0.0.0 www.youtube.com
+
+# [CSGO-SKINS]
 0.0.0.0 www.csgo-skins.com
 0.0.0.0 csgo-skins.com
-# 0.0.0.0 googlevideo.com
+
+# [YouTube]
+0.0.0.0 www.youtube.com
+0.0.0.0 googlevideo.com
 0.0.0.0 youtube.com
 0.0.0.0 youtu.be
 0.0.0.0 youtube
